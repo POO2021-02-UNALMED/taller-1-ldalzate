@@ -1,0 +1,3 @@
+Nombre: Leidy Daniela Alzate Florez
+Edad: 26
+Aspiraciones: Aprender sobre programación orientada a objetos para aplicarlo a proyectos personales.
