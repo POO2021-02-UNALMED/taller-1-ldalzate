@@ -1,3 +1,5 @@
 Nombre: Leidy Daniela Alzate Florez
 Edad: 26
 Aspiraciones: Aprender sobre programación orientada a objetos para aplicarlo a proyectos personales.
+Ahora puedo crear un commit porque hice un cambio dentro de un archivo.
+Es importante tener cuidado con modificar dos archivos al tiempo para evitar conflictos y posiblemente el sobreescribir archivos antiguos por error.
