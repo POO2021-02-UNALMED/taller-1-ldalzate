@@ -1,0 +1,2 @@
+Si la carpeta está vacía, no se reconoce el cambio.
+Al crear el archivo sí podemos hacer commit.
